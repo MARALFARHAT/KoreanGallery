@@ -1,7 +1,7 @@
 export const paintingData = [
   // Front Wall
   {
-    imgSrc: `artworks/1.jpg`,
+    imgSrc: `1.jpg`,
     width: 6.7,
     height: 7.9,
     position: { x: -15, y: 2, z: -19.5 },
@@ -15,7 +15,7 @@ export const paintingData = [
     },
   },
   {
-    imgSrc: `artworks/2.jpg`,
+    imgSrc: `2.jpg`,
     width: 6.1,
     height: 6.9,
     position: { x: -5, y: 2, z: -19.5 },
